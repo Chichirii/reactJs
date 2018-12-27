@@ -1,12 +1,12 @@
 {
-  "name": "movies_search",
+  "name": "first_website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "jquery": "^3.3.1",
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "gulp": "^4.0.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-scripts": "2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -22,8 +22,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "gulp": "^4.0.0"
-  }
+  ]
 }
